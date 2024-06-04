@@ -2,7 +2,7 @@
 My Personal Repository    
 <!--
 
-I am a 3rd year student from BITS PILANI pursuing Msc. Mathematics and B.E. CS
+Hi! I am a 3rd year student from BITS PILANI pursuing Msc. Mathematics and B.E. CS
 My hobbies include watching cricket and playing chess. 
 I am also an avid movie/Tv show watcher and a show I would recommend to anyone reading this is Umbrella Academy on Netflix.
 
